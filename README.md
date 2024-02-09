@@ -7,7 +7,7 @@ It also presents the users with rewards and other exercises to prevent falling i
 
 
 
-<img src="Screenshots/img1.png" width="400" title="Miro" align="left"/>     
-<img src="Screenshots/img2.png" width="400" title="Miro" align="right"/>    
+<img src="Screenshots/img1.png" width="200" title="Miro" align="left"/>     
+<img src="Screenshots/img2.png" width="200" title="Miro" align="right"/>    
 
 
